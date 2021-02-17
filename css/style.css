@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar{
+    background-color: rgb(197, 194, 194);
+}
+
+.nav-link{
+    font-weight: bolder;
+}
+
+.quem-somos{
+    padding-top: 10px;
+    font-weight: bolder;
+    background-color: rgb(95, 196, 243);
+}
