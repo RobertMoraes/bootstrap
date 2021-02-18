@@ -12,7 +12,6 @@ body{
 body h3{
     font-size: 25px;
     font-weight: bolder;
-    padding: 5px;
 }
 
 .navbar{
@@ -30,15 +29,17 @@ body h3{
 }
 
 .log-img-top{
-    width: 100px;
-    height: 100px;
-    padding: 5px;
+    width: 150px;
+    height: 150px;
+    margin-left: 10px;
+    border: solid 5px black;
 }
 
 .log-img{
     width: 400px;
     height: 400px;
     margin: 5px;
+    border: double 6px blue;
 }
 
 body p{
@@ -62,4 +63,31 @@ body p{
     background-color: black;
     border-radius: 15px;
     cursor: pointer;
+    margin-bottom: 30px;
+}
+
+.servicos{
+    background-color:rgb(171, 67, 219) ;
+    padding: 0;
+}
+
+.img-servicos{
+    width: 250px;
+    height: 250px;
+    padding: 10px;
+    border-style: solid;
+    border-color: darkmagenta;
+    background-color: darkmagenta;
+    cursor:help;
+    border-radius: 20px;
+    margin-bottom: 30px;
+}
+
+.margin{
+    padding-bottom: 30px;
+    padding-top: 10px;
+}
+
+.bg-footer{
+    background-color: rgb(197, 194, 194);
 }
