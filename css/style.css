@@ -46,4 +46,20 @@ body p{
     font-style: italic;
     text-align: justify;
     padding: 10px;
+    margin-bottom: 0;
+}
+
+.parceiro{
+    background-color: rgb(62, 179, 134);
+    padding: 0;
+}
+
+.img-parceiros{
+    width: 400px;
+    height: 400px;
+    padding: 10px;
+    border-style: solid;
+    background-color: black;
+    border-radius: 15px;
+    cursor: pointer;
 }
